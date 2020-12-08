@@ -1,7 +1,7 @@
 
 [![GNU V3.0 License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-![Twitter](https://img.shields.io/twitter/follow/davertor?style=social)
+[![Twitter][twitter-shield]][twitter-url]
 
 # Webcam color detector
 Webcam color detector is a python script that opens your webcam video in order to detect objects in real-time with the color defined by the user in HSV space. 

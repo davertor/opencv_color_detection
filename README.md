@@ -4,7 +4,11 @@
 [![Twitter][twitter-shield]][twitter-url]
 
 # Webcam color detector
-Webcam color detector is a python script that opens your webcam video in order to detect objects in real-time with the color defined by the user in HSV space. 
+Webcam color detector is a python script that opens your webcam video in order to detect objects with the color defined by the user in real-time.
+
+Webcam color detector draw a yellow circle in the center of the object detected. Color is defined in HSV space instead of RGB, because in HSV color is defined mainly by its hue, which makes easier to find the desired color. The detector can only find one object per frame, so it will draw a circle around the object with the higher contour.
+
+Besides, the detector draw a red path over the image, which is the trajectory described by the object with the selected color. 
 
 [![Product screenshot][product-screenshot]]
 

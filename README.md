@@ -37,4 +37,6 @@ This project uses the following license: GNU v3.0
 [license-url]: https://github.com/davertor/webcam_color_detector/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/daniel-verdu-torres
+[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
+[twitter-url]: https://twitter.com/davertor
 

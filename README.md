@@ -1,4 +1,5 @@
 
+[![GNU V3.0 License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 ![Twitter](https://img.shields.io/twitter/follow/davertor?style=social)
 
@@ -32,6 +33,8 @@ This project uses the following license: GNU v3.0
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[license-shield]: https://img.shields.io/badge/License-GNU-brightgreen.svg?style=for-the-badge
+[license-url]: https://github.com/davertor/webcam_color_detector/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/daniel-verdu-torres
 
